@@ -1,2 +1,2 @@
-# web-design-lambee
+# web-design-lambee-group
 project final
